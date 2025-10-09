@@ -96,6 +96,12 @@ cache/
 *.pkl
 *.pickle
 
+# Generated output files
+*.png
+*.pdf
+*.html
+*.geojson
+
 # Logs
 *.log
 logs/
